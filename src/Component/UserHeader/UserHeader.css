@@ -1,0 +1,39 @@
+.tophead {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 0;
+}
+.lefthead img {
+    max-width: 31%;
+}
+.lefthead {
+    max-width: 25%;
+    text-align: left;
+}
+.centerhead {
+    max-width: 45%;
+    width: 100%;
+}
+input#prosearch {
+    background: #ffe79575;
+    width: 100%;
+    padding: 8px;
+}
+.righthead img {
+    max-width: 30px;
+    margin-right: 20px;
+}
+.righthead {
+    width: 25%;
+    text-align: right;
+}
+.righthead button {
+    background: #ff9900;
+    color: #fff;
+    border: none;
+    padding: 7px 25px;
+}
+img {
+    max-width: 100%;
+}

@@ -1,0 +1,27 @@
+.loginfull {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.loginbox {
+    box-shadow: 0px 0px 5px #ccc;
+    padding: 25px;
+    width: 30%;
+}
+.loginfrm input {
+    width: 100%;
+    height: 40px;
+    border: 1px solid #ddd;
+    outline: none;
+    box-shadow: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.loginfrm p {
+    width: 100%;
+}
+h6.forgetpaswrd {
+    text-align: right;
+    margin-bottom: 20px;
+}
